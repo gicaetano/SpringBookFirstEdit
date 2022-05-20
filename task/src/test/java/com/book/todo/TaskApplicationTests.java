@@ -1,4 +1,4 @@
-package com.book.task;
+package com.book.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
